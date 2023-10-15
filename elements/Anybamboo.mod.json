@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.BAMBOO"
+      },
+      {
+        "value": "Blocks.BAMBOO_SAPLING"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "anybamboo",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 33,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "YCore",
+    "description": "YCore Enabled or Disabled",
+    "category": "UPDATES",
+    "defaultValueLogic": true,
+    "defaultValueNumber": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Blocks.TRIPWIRE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "anystring",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_fv": 33,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "Blocks.BEETROOTS"
+    },
+    "enableFuel": false,
+    "fuelPower": {
+      "fixedValue": 0.0
+    },
+    "hasDispenseBehavior": true,
+    "compostLayerChance": 0.2
+  }
+}
